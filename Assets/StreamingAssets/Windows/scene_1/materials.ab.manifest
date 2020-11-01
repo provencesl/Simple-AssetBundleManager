@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1358164627
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 234c6dfa68f4eaa87d6b39abcf39623f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/AB_Res/Scene_1/Materials/BaiTianE.mat
+Dependencies:
+- E:/Download/AssetBundleFrameWork-master (1)/AssetBundleFrameWork-master/AssetBundleFrameWork/Assets/StreamingAssets/Windows/scene_1/textures.ab
