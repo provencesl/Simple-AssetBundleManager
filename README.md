@@ -1,2 +1,0 @@
-# Simple-AssetBundleManager
-AssetBundle Learn
